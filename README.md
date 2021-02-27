@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dmitryershov0&show_icons=true&&theme=tokyonight" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitryershov0&theme=tokyonight" />
+</p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dmitryershov0/&title=Profile%20Views)
-
 
 <!--
 **dmitryershov0/dmitryershov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
