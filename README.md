@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dmitryershov0&show_icons=true&&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitryershov0&theme=tokyonight" />
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dmitryershov0/&title=Profile%20Views)
 
